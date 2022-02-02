@@ -1,4 +1,4 @@
-﻿using Qurre.API.Addons;
+using Qurre.API.Addons;
 using System.Collections.Generic;
 using System.ComponentModel;
 
